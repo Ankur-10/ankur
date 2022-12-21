@@ -8,7 +8,7 @@
                                                  
                                                  
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning ** Flask Framework**
 
 - 📫 How to reach me **akam.ankursingh@gmail.com**
 
