@@ -8,7 +8,7 @@
                                                  
                                                  
 
-- 🌱 I’m currently learning ** Flask Framework**
+- 🌱 I’m currently learning ** Django Framework**
 
 - 📫 How to reach me **akam.ankursingh@gmail.com**
 
